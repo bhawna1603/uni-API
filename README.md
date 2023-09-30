@@ -7,4 +7,4 @@
 3. JavaScript
 
 # API used :
-university-domains-list- <a href="http://universities.hipolabs.com"></a>
+university-domains-list- <a href="http://universities.hipolabs.com"></a>.
